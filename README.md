@@ -159,4 +159,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## Author
 
 **Gaurav Sahu**
-[GitHub](https://github.com/GauravSahu891) · [LinkedIn](https://linkedin.com/in/gaurav-s-75073b316)
+[GitHub](https://github.com/GauravSahu891) · [LinkedIn](https://www.linkedin.com/in/gaurav-sahu-75073b316/)
